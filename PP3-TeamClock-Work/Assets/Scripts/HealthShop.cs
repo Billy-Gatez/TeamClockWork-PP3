@@ -1,0 +1,73 @@
+using UnityEngine;
+
+public class HealthShop : MonoBehaviour
+{
+    public int cost = 1;
+    private bool playerInRange = false; 
+
+    void Update()
+    {
+       
+        if (playerInRange && Input.GetKeyDown(KeyCode.E))
+        {
+            increaseHP(cost);
+        }
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        
+        if (other.CompareTag("Player")) 
+        {
+            playerInRange = true; 
+        }
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+       
+        if (other.CompareTag("Player"))
+        {
+            playerInRange = false; 
+        }
+    }
+
+    public void increaseHP(int cost)
+    {
+        int healthPerCost = 10;
+
+        
+        Debug.Log($"Current Currency: {gamemanager.instance.currency}, Cost: {cost}");
+
+        if (gamemanager.instance.currency >= cost)
+        {
+            int healthGained = cost * healthPerCost;
+
+           
+            Debug.Log($"Health Gained: {healthGained}");
+
+            gamemanager.instance.playerScript.HP += healthGained;
+
+            if (gamemanager.instance.playerScript.HP > gamemanager.instance.playerScript.HPOrig)
+            {
+                gamemanager.instance.playerScript.HP = gamemanager.instance.playerScript.HPOrig;
+            }
+
+          
+            gamemanager.instance.currency -= cost;
+
+         
+            gamemanager.instance.updateCurrency(-cost); 
+
+           
+            Debug.Log($"Currency after deduction: {gamemanager.instance.currency}");
+
+           
+            gamemanager.instance.playerHPBar.fillAmount = (float)gamemanager.instance.playerScript.HP / gamemanager.instance.playerScript.HPOrig;
+        }
+        else
+        {
+            Debug.Log("Not enough currency to increase HP!");
+        }
+    }
+}

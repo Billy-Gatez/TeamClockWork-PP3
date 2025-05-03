@@ -1,0 +1,20 @@
+using UnityEngine;
+using UnityEngine.EventSystems;
+
+public class MouseResetOnSceneLoad : MonoBehaviour
+{
+    void Start()
+    {
+       
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
+
+       
+        if (Object.FindFirstObjectByType<EventSystem>() == null)
+        {
+            GameObject eventSystem = new GameObject("EventSystem");
+            eventSystem.AddComponent<EventSystem>();
+            eventSystem.AddComponent<StandaloneInputModule>();
+        }
+    }
+}

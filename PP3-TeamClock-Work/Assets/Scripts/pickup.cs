@@ -1,0 +1,20 @@
+using UnityEngine;
+
+public class pickup : MonoBehaviour
+{
+    [SerializeField] gunStats gun;
+
+    private void OnTriggerEnter(Collider other)
+    {
+        Ipickup pickupable = other.GetComponent<Ipickup>();
+
+        if (pickupable != null)
+        {
+            pickupable.getGunStats(gun);
+            gun.ammoCur = gun.ammoMax;
+            gamemanager.instance.playerScript.updatePlayerUI();
+            Destroy(gameObject);
+        }
+    }
+}
+
