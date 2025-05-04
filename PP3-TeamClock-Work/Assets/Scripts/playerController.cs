@@ -85,7 +85,7 @@ public class playerController : MonoBehaviour, IDamage, Ipickup
         //updatePlayerUI();
     }
 
-    IEnumerator playStep()
+    IEnumerator PlayStep()
     {
 
         isPlayingStep = true;

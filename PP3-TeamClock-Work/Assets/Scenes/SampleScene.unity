@@ -2258,6 +2258,18 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1293043542448022615, guid: ea043eb95df26d44b83a6056783d917b, type: 3}
+      propertyPath: audJumpVol
+      value: 0.885
+      objectReference: {fileID: 0}
+    - target: {fileID: 1293043542448022615, guid: ea043eb95df26d44b83a6056783d917b, type: 3}
+      propertyPath: audStepsVol
+      value: 0.838
+      objectReference: {fileID: 0}
+    - target: {fileID: 1293043542448022615, guid: ea043eb95df26d44b83a6056783d917b, type: 3}
+      propertyPath: 'audSteps.Array.data[0]'
+      value: 
+      objectReference: {fileID: 8300000, guid: 9f2fa453c5c020440a317973a852fc6b, type: 3}
+    - target: {fileID: 1293043542448022615, guid: ea043eb95df26d44b83a6056783d917b, type: 3}
       propertyPath: 'teleportDestinations.Array.data[0]'
       value: 
       objectReference: {fileID: 7311870152318523887}
@@ -2281,6 +2293,26 @@ PrefabInstance:
       propertyPath: 'teleportDestinations.Array.data[5]'
       value: 
       objectReference: {fileID: 4661387518652808686}
+    - target: {fileID: 2391652840785553897, guid: ea043eb95df26d44b83a6056783d917b, type: 3}
+      propertyPath: m_Pitch
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2391652840785553897, guid: ea043eb95df26d44b83a6056783d917b, type: 3}
+      propertyPath: Priority
+      value: 164
+      objectReference: {fileID: 0}
+    - target: {fileID: 2391652840785553897, guid: ea043eb95df26d44b83a6056783d917b, type: 3}
+      propertyPath: m_Volume
+      value: 0.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 2391652840785553897, guid: ea043eb95df26d44b83a6056783d917b, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 7ec3bda5c879e974ea32eb90da4d06b1, type: 3}
+    - target: {fileID: 2391652840785553897, guid: ea043eb95df26d44b83a6056783d917b, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 7ec3bda5c879e974ea32eb90da4d06b1, type: 3}
     - target: {fileID: 3985223542121532663, guid: ea043eb95df26d44b83a6056783d917b, type: 3}
       propertyPath: m_CullingMask.m_Bits
       value: 4294967295
