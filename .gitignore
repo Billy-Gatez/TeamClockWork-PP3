@@ -1,5 +1,89 @@
 
 
+# This is a Unity .gitignore file
 
+# This ignores the following files and directories:
 
+# Build results
+# [Bb]uild/
+# [Bb]uilds/
+ [Ll]ogs/
+
+# User-specific files
+# [Ll]ibrary/
+[Tt]emp/
+# [Oo]bj/
+# [Aa]ssets/AssetStoreTools*
+
+# Visual Studio / MonoDevelop files
+# .vscode/
+# *.sln
+# *.userprefs
+# *.csproj
+# *.pidb
+# *.user
+# *.suo
+# *.unityproj
+# *.booproj
+# *.svd
+
+# Rider files
+# .idea/
+# *.sln.iml
+
+# Mac files
+# .DS_Store
+
+# Windows files
+# Thumbs.db
+# ehthumbs.db
+
+# Unity3D generated files
+# *.pidb.meta
+# *.pdb
+# *.mdb
+# *.opendb
+# *.sln
+# *.suo
+# *.userprefs
+# *.user
+# *.booproj
+# *.svd
+# *.tmp
+# *.temp
+# *.bak
+# *.swp
+# *.swm
+# *.swp
+# *.swo
+# *.swn
+# *.tmp
+# *.temp
+# *.bak
+# *.swp
+# *.swm
+# *.swp
+# *.swo
+# *.swn
+
+# Asset meta data
+# *.meta
+
+# Ignore all files in the Temp folder
+# Temp/
+
+# Ignore the Library folder
+# Library/
+
+# Ignore the obj folder
+# obj/
+
+# Ignore the Build folder
+# Build/
+
+# Ignore the Logs folder
+# Logs/
+
+# Ignore the UserSettings folder
+# User Settings/
 
