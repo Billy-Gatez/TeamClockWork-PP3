@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|c:\\users\\abote\\music\\mark\\pp2-teamclockwork-v2\\pp2-teamclockwork\\assets\\textmesh pro\\examples \u0026 extras\\scripts\\teletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\examples \u0026 extras\\scripts\\teletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abote\\Music\\Mark\\ClockWorkHorrorsDemo\\ClockWorkHorrors\\Assets\\Scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abote\\Music\\Mark\\ClockWorkHorrorsDemo\\ClockWorkHorrors\\Assets\\Scripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\assets\\scripts\\healthshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\assets\\scripts\\buttonfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\assets\\scripts\\healthitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tommy\\source\\repos\\Team\\PP2-TeamClockWork\\Assets\\Scripts\\enemyAI-A.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\assets\\scripts\\ipickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A416C8-6D72-A167-C1AE-F2DC80B84C6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ipickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeleType.cs",
+              "DocumentMoniker": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TeleType.cs",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TeleType.cs",
+              "ToolTip": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TeleType.cs",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TeleType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:17:33.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gamemanager.cs",
+              "DocumentMoniker": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\gamemanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\gamemanager.cs",
+              "ToolTip": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\gamemanager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\gamemanager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:22:19.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "damage.cs",
+              "DocumentMoniker": "C:\\Users\\abote\\Music\\Mark\\ClockWorkHorrorsDemo\\ClockWorkHorrors\\Assets\\Scripts\\damage.cs",
+              "RelativeDocumentMoniker": "..\\..\\ClockWorkHorrorsDemo\\ClockWorkHorrors\\Assets\\Scripts\\damage.cs",
+              "ToolTip": "C:\\Users\\abote\\Music\\Mark\\ClockWorkHorrorsDemo\\ClockWorkHorrors\\Assets\\Scripts\\damage.cs",
+              "RelativeToolTip": "..\\..\\ClockWorkHorrorsDemo\\ClockWorkHorrors\\Assets\\Scripts\\damage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:04:36.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuManager.cs",
+              "ToolTip": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:17:57.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthShop.cs",
+              "DocumentMoniker": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\HealthShop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthShop.cs",
+              "ToolTip": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\HealthShop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthShop.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:07:44.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "healthItem.cs",
+              "DocumentMoniker": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\healthItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\healthItem.cs",
+              "ToolTip": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\healthItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\healthItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:59:57.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon.cs",
+              "ToolTip": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T16:58:29.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "enemyAI-A.cs",
+              "DocumentMoniker": "C:\\Users\\tommy\\source\\repos\\Team\\PP2-TeamClockWork\\Assets\\Scripts\\enemyAI-A.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\tommy\\source\\repos\\Team\\PP2-TeamClockWork\\Assets\\Scripts\\enemyAI-A.cs",
+              "ToolTip": "C:\\Users\\tommy\\source\\repos\\Team\\PP2-TeamClockWork\\Assets\\Scripts\\enemyAI-A.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\tommy\\source\\repos\\Team\\PP2-TeamClockWork\\Assets\\Scripts\\enemyAI-A.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:54:54.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "buttonFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\buttonFunctions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\buttonFunctions.cs",
+              "ToolTip": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\buttonFunctions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\buttonFunctions.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:44:12.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "playerController.cs",
+              "DocumentMoniker": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\playerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\playerController.cs",
+              "ToolTip": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\playerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\playerController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAABEwM4AAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:40:42.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gamemanager.cs",
+              "DocumentMoniker": "C:\\Users\\abote\\Music\\Mark\\ClockWorkHorrorsDemo\\ClockWorkHorrors\\Assets\\Scripts\\gamemanager.cs",
+              "RelativeDocumentMoniker": "..\\..\\ClockWorkHorrorsDemo\\ClockWorkHorrors\\Assets\\Scripts\\gamemanager.cs",
+              "ToolTip": "C:\\Users\\abote\\Music\\Mark\\ClockWorkHorrorsDemo\\ClockWorkHorrors\\Assets\\Scripts\\gamemanager.cs",
+              "RelativeToolTip": "..\\..\\ClockWorkHorrorsDemo\\ClockWorkHorrors\\Assets\\Scripts\\gamemanager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:06:28.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "checkpoint.cs",
+              "DocumentMoniker": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\checkpoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\checkpoint.cs",
+              "ToolTip": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\checkpoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\checkpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:17:20.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "spawner.cs",
+              "DocumentMoniker": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\spawner.cs",
+              "ToolTip": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\spawner.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\spawner.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:43:56.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ipickup.cs",
+              "DocumentMoniker": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\Ipickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ipickup.cs",
+              "ToolTip": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\Ipickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ipickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:27:01.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "enemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\enemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemyAI.cs",
+              "ToolTip": "C:\\Users\\abote\\Music\\Mark\\PP2-TeamClockWork-V2\\PP2-TeamClockWork\\Assets\\Scripts\\enemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemyAI.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAxwKYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:32:24.304Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 31,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
