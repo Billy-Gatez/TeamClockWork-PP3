@@ -1,0 +1,21 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="buttonFunctions">
+			<method name="quit"/>
+			<method name="quit"/>
+			<method name="quit"/>
+			<method name="respawn"/>
+			<method name="restart"/>
+			<method name="restart"/>
+			<method name="restart"/>
+			<method name="resume"/>
+		</type>
+		<type fullname="MainMenuManager">
+			<method name="MainMenu"/>
+			<method name="MainMenu"/>
+			<method name="MainMenu"/>
+			<method name="QuitGame"/>
+			<method name="StartGame"/>
+		</type>
+	</assembly>
+</linker>
