@@ -1,4 +1,3 @@
-// George Carter - Full Sail University
 using UnityEngine;
 
 public class healthItem : MonoBehaviour

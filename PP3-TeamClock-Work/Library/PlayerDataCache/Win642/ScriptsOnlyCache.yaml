@@ -3,7 +3,6 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - HealthShop
     - MainMenuManager
-    - MouseResetOnSceneLoad
     - ScrollingUVs_Layers
     - buttonFunctions
     - cameraController
@@ -42,12 +41,6 @@ ScriptsOnlyBuild:
     - TMPro.TMP_StyleSheet
     - TMPro.TextMeshPro
     - TMPro.TextMeshProUGUI
-    UnityEditor.Graphs.dll:
-    - UnityEditor.Graphs.AnimationBlendTree.Graph
-    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.Graph
-    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.CommandLineTest.RunData
@@ -166,39 +159,37 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9864}
+      Script: {instanceID: 9862}
     - Class: 114
-      Script: {instanceID: 10144}
+      Script: {instanceID: 10142}
     - Class: 114
-      Script: {instanceID: 10442}
+      Script: {instanceID: 10440}
     - Class: 114
-      Script: {instanceID: 10710}
+      Script: {instanceID: 10708}
     - Class: 114
-      Script: {instanceID: 11454}
+      Script: {instanceID: 11452}
     - Class: 114
-      Script: {instanceID: 11712}
+      Script: {instanceID: 11980}
     - Class: 114
-      Script: {instanceID: 11984}
+      Script: {instanceID: 12472}
     - Class: 114
-      Script: {instanceID: 12476}
+      Script: {instanceID: 14218}
     - Class: 114
-      Script: {instanceID: 14222}
+      Script: {instanceID: 14708}
     - Class: 114
-      Script: {instanceID: 14712}
+      Script: {instanceID: 14852}
     - Class: 114
-      Script: {instanceID: 14856}
+      Script: {instanceID: 14994}
     - Class: 114
-      Script: {instanceID: 14998}
+      Script: {instanceID: 15022}
     - Class: 114
-      Script: {instanceID: 15026}
+      Script: {instanceID: 15154}
     - Class: 114
-      Script: {instanceID: 15142}
+      Script: {instanceID: 15958}
     - Class: 114
-      Script: {instanceID: 15962}
+      Script: {instanceID: 16070}
     - Class: 114
-      Script: {instanceID: 16074}
-    - Class: 114
-      Script: {instanceID: 16146}
+      Script: {instanceID: 16142}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -265,63 +256,63 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9672}
+      Script: {instanceID: 9670}
     - Class: 114
-      Script: {instanceID: 9864}
+      Script: {instanceID: 9862}
     - Class: 114
-      Script: {instanceID: 10144}
+      Script: {instanceID: 10142}
     - Class: 114
-      Script: {instanceID: 10442}
+      Script: {instanceID: 10440}
     - Class: 114
-      Script: {instanceID: 11244}
+      Script: {instanceID: 11242}
     - Class: 114
-      Script: {instanceID: 11454}
+      Script: {instanceID: 11452}
     - Class: 114
-      Script: {instanceID: 11712}
+      Script: {instanceID: 11980}
     - Class: 114
-      Script: {instanceID: 11984}
+      Script: {instanceID: 12172}
     - Class: 114
-      Script: {instanceID: 12176}
+      Script: {instanceID: 12236}
     - Class: 114
-      Script: {instanceID: 12240}
+      Script: {instanceID: 12472}
     - Class: 114
-      Script: {instanceID: 12476}
+      Script: {instanceID: 13450}
     - Class: 114
-      Script: {instanceID: 13454}
+      Script: {instanceID: 13806}
     - Class: 114
-      Script: {instanceID: 13810}
+      Script: {instanceID: 14218}
     - Class: 114
-      Script: {instanceID: 14222}
+      Script: {instanceID: 14708}
     - Class: 114
-      Script: {instanceID: 14712}
+      Script: {instanceID: 14994}
     - Class: 114
-      Script: {instanceID: 14998}
+      Script: {instanceID: 15112}
     - Class: 114
-      Script: {instanceID: 15116}
+      Script: {instanceID: 15154}
     - Class: 114
-      Script: {instanceID: 15142}
+      Script: {instanceID: 15334}
     - Class: 114
-      Script: {instanceID: 15338}
+      Script: {instanceID: 15540}
     - Class: 114
-      Script: {instanceID: 15544}
+      Script: {instanceID: 15758}
     - Class: 114
-      Script: {instanceID: 15762}
+      Script: {instanceID: 15886}
     - Class: 114
-      Script: {instanceID: 15890}
+      Script: {instanceID: 15958}
     - Class: 114
-      Script: {instanceID: 15962}
+      Script: {instanceID: 16022}
     - Class: 114
-      Script: {instanceID: 16026}
+      Script: {instanceID: 16142}
     - Class: 114
-      Script: {instanceID: 16146}
+      Script: {instanceID: 16552}
     - Class: 114
-      Script: {instanceID: 16556}
+      Script: {instanceID: 16578}
     - Class: 114
-      Script: {instanceID: 16582}
+      Script: {instanceID: 16862}
     - Class: 114
-      Script: {instanceID: 16866}
+      Script: {instanceID: 17134}
     - Class: 114
-      Script: {instanceID: 17138}
+      Script: {instanceID: 34202}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -719,12 +710,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Postprocessing.Runtime
     namespaceName: UnityEngine.Rendering.PostProcessing
     className: PostProcessResources
-  - hash:
-      serializedVersion: 2
-      Hash: ffe031b05cf36a0374738968af36900e
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: MouseResetOnSceneLoad
   - hash:
       serializedVersion: 2
       Hash: 33f160a5c07e580c29aba2bd1e4db811
@@ -1773,4 +1758,5 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/MainMenu.unity
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/abote/Music/Mark/SUCCESS/Prototype 2/FPS - 2504.exe
+  playerPath: C:/Users/abote/Music/Mark/SUCCESS/Scripts Lecture 8/PT2-Clock-Work/FPS
+    - 2504.exe

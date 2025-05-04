@@ -10,7 +10,6 @@
 		<type fullname="healthItem" preserve="nothing"/>
 		<type fullname="HealthShop" preserve="nothing"/>
 		<type fullname="MainMenuManager" preserve="nothing"/>
-		<type fullname="MouseResetOnSceneLoad" preserve="nothing"/>
 		<type fullname="pickup" preserve="nothing"/>
 		<type fullname="playerController" preserve="nothing"/>
 		<type fullname="ScrollingUVs_Layers" preserve="nothing"/>

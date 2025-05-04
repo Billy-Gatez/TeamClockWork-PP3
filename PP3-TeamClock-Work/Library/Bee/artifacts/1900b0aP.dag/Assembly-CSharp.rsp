@@ -341,7 +341,6 @@
 "Assets/Scripts/IDamage.cs"
 "Assets/Scripts/Ipickup.cs"
 "Assets/Scripts/MainMenuManager.cs"
-"Assets/Scripts/MouseManager.cs"
 "Assets/Scripts/pickup.cs"
 "Assets/Scripts/playerController.cs"
 "Assets/Scripts/spawner.cs"

@@ -22,6 +22,3 @@ public class checkpoint : MonoBehaviour
         model.material.color = Color.white;
     }
 }
-
-
-// ClockworkHorrors 2025
