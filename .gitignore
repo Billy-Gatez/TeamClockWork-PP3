@@ -7,11 +7,11 @@
 # Build results
 # [Bb]uild/
 # [Bb]uilds/
- [Ll]ogs/
+# [Ll]ogs/
 
 # User-specific files
- [Ll]ibrary/
-[Tt]emp/
+# [Ll]ibrary/
+# [Tt]emp/
 # [Oo]bj/
 # [Aa]ssets/AssetStoreTools*
 
