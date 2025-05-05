@@ -87,3 +87,4 @@
 # Ignore the UserSettings folder
 # User Settings/
 
+*.vsidx
