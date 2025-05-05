@@ -250,11 +250,11 @@ MonoBehaviour:
     m_Bits: 8
   controller: {fileID: 202076028269457882}
   HP: 10
-  speed: 5
-  sprintMod: 3
-  jumpSpeed: 12
+  speed: 4
+  sprintMod: 2
+  jumpSpeed: 8
   jumpMax: 2
-  gravity: 40
+  gravity: 45
   crouchSpeed: 3
   crouchHeight: 0.0125
   gunList: []
@@ -268,13 +268,13 @@ MonoBehaviour:
   aud: {fileID: 2391652840785553897}
   audJump:
   - {fileID: 8300000, guid: 4f1e2e0bc97381a4986dfd50481b3e87, type: 3}
-  audJumpVol: 0.824
+  audJumpVol: 0.885
   audHurt:
   - {fileID: 8300000, guid: 508385bb56b8dba41b44c60e0458e516, type: 3}
   audHurtVol: 0.77
   audSteps:
-  - {fileID: 8300000, guid: a4277ce9a36480e41b7f4d4f42d403bd, type: 3}
-  audStepsVol: 0.828
+  - {fileID: 8300000, guid: 9f2fa453c5c020440a317973a852fc6b, type: 3}
+  audStepsVol: 0.838
   teleportDestinations:
   - {fileID: 0}
   - {fileID: 0}
@@ -374,13 +374,13 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: 7ec3bda5c879e974ea32eb90da4d06b1, type: 3}
   m_Resource: {fileID: 8300000, guid: 7ec3bda5c879e974ea32eb90da4d06b1, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.095
+  m_Volume: 0.23
   m_Pitch: 1
   Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 121
+  Priority: 164
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500

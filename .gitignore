@@ -10,7 +10,7 @@
  [Ll]ogs/
 
 # User-specific files
-# [Ll]ibrary/
+ [Ll]ibrary/
 [Tt]emp/
 # [Oo]bj/
 # [Aa]ssets/AssetStoreTools*
@@ -87,3 +87,4 @@
 # Ignore the UserSettings folder
 # User Settings/
 
+*.vsidx
